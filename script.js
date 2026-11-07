@@ -3,7 +3,7 @@
 const urlEle = document.getElementById("url");
 const nameFieldEle = document.getElementById("name");
 const yearFieldEle = document.getElementById("year");
-const btn = document.getElementById("submit");
+const btn = document.getElementById("button");
 
 btn.addEventListener("click", (e) => {
 	e.preventDefault();
